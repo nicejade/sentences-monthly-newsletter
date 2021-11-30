@@ -19,6 +19,10 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 ## 2021
 
+#### **十一月**
+
+- [高品质美句月刊第 2 期 - 曼妙句子](/monthly-002.md)
+
 #### **十月**
 
 - [高品质美句月刊第 1 期 - 曼妙句子](/monthly-001.md)
