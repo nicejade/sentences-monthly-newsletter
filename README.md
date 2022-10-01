@@ -19,6 +19,17 @@ deno run --unstable --allow-net --allow-write src/index.ts
 
 ## 2022
 
+### **九月**
+
+- [高品质美句月刊第 12 期 - 曼妙句子](https://forum.lovejade.cn/d/224-12)
+
+### **八月**
+
+- [高品质美句月刊第 11 期 - 曼妙句子](https://forum.lovejade.cn/d/212-11)
+### **七月**
+
+- [高品质美句月刊第 10 期 - 曼妙句子](https://forum.lovejade.cn/d/208-10)
+
 ### **六月**
 
 - [高品质美句月刊第 9 期 - 曼妙句子](https://forum.lovejade.cn/d/196-9)
