@@ -2,7 +2,7 @@
 
 除了网站外，有将收录的内容，以一月为间隔，整理为篇，月末定期发布，命名为《高品质有意思美句月刊》；首发于微信公众号[曼妙句子](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0NzI5NjQ3Mg==&action=getalbum&album_id=2103726193429512196)、博客[晚晴幽草轩](https://www.jeffjade.com)，以及[悠然宜想亭](https://forum.lovejade.cn/)社区；此一键生成脚本基于 [Deno](https://nicelinks.site/post/602d30aad099ff5688618591) 编写，并在 [Github 开源](https://github.com/nicejade/sentences-monthly-newsletter)。
 
-![高品质美句月刊第 26 期 - 曼妙句子](https://image.nicelinks.site/jpg/nice-links-026.jpg)
+![高品质美句月刊第 25 期 - 曼妙句子](https://image.nicelinks.site/jpg/nice-links-025.jpg)
 
 [中文偶像的“偶”本身在提醒我们，它是愚蠢的一种体现。因为愚蠢的“愚”上面是一个“禺”，这个“禺”在古语的解读里就是偶像的“偶”，这其实就是在提醒我们，凡是把自己作为他人的偶像，或者在心中把别人作为自己的偶像，可能都是愚蠢的一种体现。人不需要偶像，人需要榜样。因为“榜”、“样”都是“木”字旁，木头是容易腐朽的，这说明所有的榜样都是有缺陷的。而且榜样既然是“木”字旁，他们是可以复制的。──罗翔](https://read.lovejade.cn/p/6554e6f99ee2a35ce709c5db) 
 

@@ -14,9 +14,9 @@ const queryString = (url: string, query: any) => {
 }
 
 const getMonthlyNumber = (targetLength: number) => {
-  const firstWeeklyDate = new Date('2021-09-30')
+  const firstWeekDateTime = new Date('2021-09-30').getTime() 
   const currentDateTime = (new Date()).getTime()
-  const offsetDateTime = currentDateTime - firstWeeklyDate.getTime() 
+  const offsetDateTime = currentDateTime - firstWeekDateTime
   const offsetNumber = Math.round(offsetDateTime / (30 * 86400000))
   const weeklyNumber = offsetNumber.toString().padStart(targetLength, '0')
   return weeklyNumber
@@ -30,7 +30,7 @@ const writeToMdFile = (articleStr: string) => {
 const fetchNicelinks = () => {
   const params = {
     pageCount: 1,
-    pageSize: 21,
+    pageSize: 30,
     sortType: -1,
     sortTarget: 'createTime',
     active: true
