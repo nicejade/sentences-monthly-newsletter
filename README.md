@@ -17,7 +17,17 @@ deno run --unstable --allow-net --allow-write src/index.ts
 ./start.sh
 ```
 
+## 2024
+
+### **一月**
+
+- [高品质美句月刊第 28 期 - 曼妙句子](https://forum.lovejade.cn/d/325-28)
+
 ## 2023
+
+### **十二月**
+
+- [高品质美句月刊第 27 期 - 曼妙句子](https://forum.lovejade.cn/d/315-25)
 
 ### **十一月**
 
@@ -46,15 +56,18 @@ deno run --unstable --allow-net --allow-write src/index.ts
 ### **五月**
 
 - [高品质美句月刊第 20 期 - 曼妙句子](https://forum.lovejade.cn/d/284-20)
+
 ### **四月**
 
 - [高品质美句月刊第 19 期 - 曼妙句子](https://forum.lovejade.cn/d/277-19)
 ### **三月**
 
 - [高品质美句月刊第 18 期 - 曼妙句子](https://forum.lovejade.cn/d/270-18)
+
 ### **二月**
 
 - [高品质美句月刊第 17 期 - 曼妙句子](https://forum.lovejade.cn/d/261-17)
+
 ### **一月**
 
 - [高品质美句月刊第 16 期 - 曼妙句子](https://forum.lovejade.cn/d/257-16)
